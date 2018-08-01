@@ -1,0 +1,23 @@
+.example-form {
+    min-width: 50%;
+    max-width: 100%;
+    width: 50%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .bg{
+      
+    background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/escheresque_ste.png");
+   
+   background-color:#111;
+   color: #fff;
+   padding: 10%;
+  }
+
+  .bcolor
+  {
+    margin-right: 10px; 
+    background-color:cadetblue;
+  }
